@@ -1,0 +1,5 @@
+name: MetriunPM5
+version: 1.0.0
+main: Metriun\Metriun\Main
+api: [5.0.0]
+src-namespace-prefix: Metriun\Metriun
